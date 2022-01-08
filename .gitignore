@@ -3,7 +3,7 @@ pruebas/
 django-vcfapi/dist/
 django-vcfapi/django_vcfapi.egg-info/
 vcfapiproject/media/
-vcfapiroject/.Rhistory
+vcfapiproject/.Rhistory
 vcfapiproject/db.sqlite3
 vcfapiproject/home/__pycache__/
 vcfapiproject/vcfapiproject/__pycache__/
