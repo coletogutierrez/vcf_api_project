@@ -1,0 +1,10 @@
+django>=4
+djangorestframework==3.13.1
+pexpect
+paramiko
+wheel
+pyvcf
+vcfpy
+pysam
+djangorestframework-xml
+defusedxml
